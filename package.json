@@ -1,5 +1,5 @@
 {
-  "name": "bank_acc_node",
+  "name": "bank_account_management",
   "version": "1.0.0",
   "main": "app.js",
   "license": "MIT",
