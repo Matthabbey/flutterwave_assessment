@@ -102,7 +102,7 @@ export const fetchSingleBankAccount = async (
       });
     } else {
       return res.status(404).json({
-        Error: "Account not found!",
+        error: "Account not found!",
       });
     }
   } catch (error) {

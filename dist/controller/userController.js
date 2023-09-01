@@ -83,7 +83,7 @@ const fetchSingleBankAccount = async (req, res, next) => {
         }
         else {
             return res.status(404).json({
-                Error: "Account not found!",
+                error: "Account not found!",
             });
         }
     }
