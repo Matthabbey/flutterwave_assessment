@@ -1,0 +1,82 @@
+[
+  {
+    "id": "7538ad3e-0695-4c4e-9bf8-f47330c58eeb",
+    "account_holder_name": "Ayoola",
+    "account_holder_DOB": "2002-12-23",
+    "account_type": "Savings",
+    "initial_balance": 0,
+    "account_number": 2176914540
+  },
+  {
+    "id": "7d1c0b57-7f3d-4e61-acb9-a93c192733fd",
+    "account_holder_name": "Ayoola",
+    "account_holder_DOB": "2002-11-23",
+    "account_type": "Savings",
+    "initial_balance": 0,
+    "account_number": 5732041927
+  },
+  {
+    "id": "a7b24268-ba31-4e23-a233-0061c761cca8",
+    "account_holder_name": "Ayoola",
+    "account_holder_DOB": "2002-11-23",
+    "account_type": "Savings",
+    "initial_balance": 0,
+    "account_number": 5759924111
+  },
+  {
+    "id": "b3036638-6916-4917-82c7-c852af277652",
+    "account_holder_name": "Ayoola",
+    "account_holder_DOB": "2002-11-23",
+    "account_type": "Savings",
+    "initial_balance": 0,
+    "account_number": 6083718886
+  },
+  {
+    "id": "0dbfdc07-b18e-4fcd-b9d9-840b2706cc46",
+    "account_holder_name": "Ayoola",
+    "account_holder_DOB": "2002-11-23",
+    "account_type": "Savings",
+    "initial_balance": 0,
+    "account_number": 4822355621
+  },
+  {
+    "id": "fc8315ba-79d5-41e8-8f8b-fa9a87545b25",
+    "account_holder_name": "Ayoola",
+    "account_holder_DOB": "2002-11-23",
+    "account_type": "Savings",
+    "initial_balance": 0,
+    "account_number": 4846780089
+  },
+  {
+    "id": "66ce484f-c45d-4665-935f-5c9694086f1b",
+    "account_holder_name": "Ayoola",
+    "account_holder_DOB": "2002-11-23",
+    "account_type": "Savings",
+    "initial_balance": 0,
+    "account_number": 1787309463
+  },
+  {
+    "id": "f0171300-e7e1-49bf-b3ad-e80a9a9a3185",
+    "account_holder_name": "Ayoola",
+    "account_holder_DOB": "2002-11-23",
+    "account_type": "Savings",
+    "initial_balance": 0,
+    "account_number": 7447656505
+  },
+  {
+    "id": "3aca5332-2255-4103-9f97-9de4671581ee",
+    "account_holder_name": "Ayoola",
+    "account_holder_DOB": "2002-11-23",
+    "account_type": "Savings",
+    "initial_balance": 0,
+    "account_number": 3338272376
+  },
+  {
+    "id": "a0e4537b-58e4-451b-87de-0879d4063cda",
+    "account_holder_name": "Ayoola",
+    "account_holder_DOB": "2002-11-23",
+    "account_type": "Savings",
+    "initial_balance": 0,
+    "account_number": 9921819175
+  }
+]
